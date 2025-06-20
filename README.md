@@ -48,7 +48,9 @@ This project is a beginner-level **Exploratory Data Analysis (EDA)** on an HR da
 ## 📸 Sample Visualizations
 
 Histplot  > https://github.com/sumitbavaskar/HR-Data-Analysis/blob/main/images/histplot.png
+
 Boxplot   > https://github.com/sumitbavaskar/HR-Data-Analysis/blob/main/images/boxplot.png
+
 Countplot > https://github.com/sumitbavaskar/HR-Data-Analysis/blob/main/images/Countplot.png
 
 ---
